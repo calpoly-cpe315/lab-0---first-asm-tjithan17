@@ -5,8 +5,7 @@
 Jithan Thyalan
 
 * Status of your lab
-  * Partially complete
-  * Code does not properly print haiku
+  * Complete
 
 * Compilation and execution instructions
   * `gcc -o eggnog eggnog.s` 
