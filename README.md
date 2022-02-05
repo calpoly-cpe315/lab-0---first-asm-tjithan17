@@ -5,11 +5,11 @@
 Jithan Thyalan
 
 * Status of your lab
-  * Complete, partially complete, incomplete
-  * If not complete, what does work? What doesn't?
+  * Partially complete
+  * Code does not properly print haiku
 
 * Compilation and execution instructions
-  * `gcc -o eggnog eggnog.s` or `make` if you create Makefile
+  * `gcc -o eggnog eggnog.s` 
   * `./eggnog`
 
 * Issues that you encountered along the way, and anything you have questions about.
